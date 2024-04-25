@@ -1,6 +1,5 @@
 numero = int(input("Digite um número inteiro: "))
 
-# Encontrando o próximo número primo anterior
 primo_anterior = numero - 1
 while primo_anterior > 1:
     eh_primo = True
